@@ -150,6 +150,7 @@
     * [Maintenance](user-documentation/cipp/settings/maintenance.md)
     * [Notifications](user-documentation/cipp/settings/notifications.md)
     * [Extensions](user-documentation/cipp/settings/extensions/README.md)
+      * [NinjaOne](user-documentation/cipp/settings/extensions/ninjaone.md)
       * [Gradient](user-documentation/cipp/settings/extensions/gradient.md)
       * [HaloPSA](user-documentation/cipp/settings/extensions/halopsa.md)
   * [Scheduler](user-documentation/cipp/scheduler.md)
@@ -192,3 +193,8 @@
 ## 🧰 MSP Adoption Toolkit
 
 * [Building a CIPP Business Case](msp-adoption-toolkit/msp-adoption-toolkit-building-a-cipp-business-case.md)
+
+## ☕ Sip & CIPP
+
+* [Conditional Access](sip-and-cipp/conditional-access.md)
+* [Autopilot & Intune](sip-and-cipp/autopilot-and-intune.md)
