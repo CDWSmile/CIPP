@@ -743,6 +743,7 @@ const MailboxForwarding = ({ refreshFunction }) => {
                         <RFFCFormCheck
                           name="KeepCopy"
                           label="Keep a copy of the forwarded mail in the source mailbox"
+                          defaultChecked
                         />
                         <CRow className="mb-3">
                           <CCol md={6}>
